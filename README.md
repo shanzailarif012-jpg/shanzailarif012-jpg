@@ -2,7 +2,9 @@
 
 <h3 align="center">Backend Developer | Python Developer | Computer Science Student</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=1400&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dev_Shanzail;Backend+Developer;Python+Developer;Computer+Science+Student;Learning+AI+%26+Backend+Development;100+Days+of+Python+Coding+Challenge" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
