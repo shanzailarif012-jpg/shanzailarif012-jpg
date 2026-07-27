@@ -60,7 +60,7 @@ I'm also passionate about exploring the latest **AI technologies** and growing a
 
 # 📊 GitHub Stats
 
-> **⚠️ Replace `YOUR_USERNAME` everywhere below with your actual GitHub username.**
+> **⚠️ Replace `shanzailarif012-jpg` everywhere below with your actual GitHub username.**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
