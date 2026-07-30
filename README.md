@@ -66,6 +66,10 @@ I'm also passionate about exploring the latest **AI technologies** and growing a
 
 https://www.linkedin.com/in/muhammad-shanzail-arif-7ba171258
 
+🌐 **My Portfolio**
+
+https://shanzailarif012-jpg.github.io/My-Portfolio/
+
 📧 **Email**
 
 shanzailarif012@gmail.com
