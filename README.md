@@ -30,6 +30,9 @@ I'm also passionate about exploring the latest **AI technologies** and growing a
 
 ### Languages
 - 🐍 Python
+- HTML
+- CSS
+- JavaScript
 
 ### Tools & Technologies
 - 💻 VS Code
